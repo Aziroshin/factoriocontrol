@@ -1,2 +1,2 @@
 # factoriocontrol
-Scripts to manage factorio serers
+Scripts to manage factorio servers
